@@ -187,8 +187,8 @@ export default function LandingPage() {
               when there&apos;s a health emergency.
             </p>
             <p className="text-gray-700 dark:text-gray-300 text-center">
-              Your data is safe. The information you give won't be shared or
-              used to identify you.
+              Your data is safe. The information you give won&apos;t be shared
+              or used to identify you.
             </p>
             <div className="text-center pt-4">
               <button className="bg-pink-400 hover:bg-pink-500 dark:bg-pink-600 dark:hover:bg-pink-700 text-white font-medium py-3 px-8 rounded-full transition-colors">
@@ -204,8 +204,8 @@ export default function LandingPage() {
             Common symptoms you can check
           </h2>
           <p className="text-center text-gray-600 dark:text-gray-400 mb-12">
-            Get a better understanding of your symptoms with Dottie's expert
-            guidance.
+            Get a better understanding of your symptoms with Dottie&apos;s
+            expert guidance.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
             <div className="space-y-4">
