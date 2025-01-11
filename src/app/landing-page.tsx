@@ -144,7 +144,7 @@ export default function LandingPage() {
             />
           </div>
           <h1 className="text-4xl font-bold text-gray-900 dark:text-white mb-4">
-            Hello, I'm Dottie
+            Hello, I&apos;m Dottie
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
             Your friendly adolescent menstrual health assistant
@@ -184,7 +184,7 @@ export default function LandingPage() {
             <p className="text-gray-700 dark:text-gray-300 text-center">
               Do not use it in case of an emergency. Ask for help from your
               family and friends or call your local emergency number right away
-              when there's a health emergency.
+              when there&apos;s a health emergency.
             </p>
             <p className="text-gray-700 dark:text-gray-300 text-center">
               Your data is safe. The information you give won't be shared or
